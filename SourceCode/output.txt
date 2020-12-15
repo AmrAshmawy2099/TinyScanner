@@ -1,0 +1,36 @@
+read:Reserved Word
+
+x:Identifier
+
+;:Special Symbol
+
+if:Reserved Word
+
+0:Number
+
+<:Special Symbol
+
+then:Reserved Word
+
+fact:Identifier
+
+:=:Special Symbol
+
+1:Number
+
+repeat:Reserved Word
+
+*:Special Symbol
+
+-:Special Symbol
+
+11.21:Number
+
+until:Reserved Word
+
+=:Special Symbol
+
+write:Reserved Word
+
+end:Reserved Word
+
